@@ -1,0 +1,7 @@
+zoom:
+  oauth2:
+    issuer: https://zoom.us/oauth
+    client-id: BhsWjV1mQVSWEfR1zS_9Bw
+    client-secret: sxhXR4zI6OSEAzszxnf4BH9ZxWln1UhR
+    account-id: -A9I5cTsS0GLiv9sLT8Bjg
+    api-url: https://api.zoom.us
